@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My wallet app</string>
+    <string name="text_name">Nueva Cuenta</string>
+    <string name="text_name1">hint</string>
+    <string name="text_name2">Nueva Cuenta</string>
+    <string name="text_name3">Nueva Cuenta</string>
+    <string name="text_btn_save">Guardar</string>
+</resources>
